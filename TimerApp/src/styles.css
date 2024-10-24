@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;  /* Horizontally center */
+    align-items: center;      /* Vertically center */
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Optional background color */
+  }
+  
+  div {
+    text-align: center;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #ccc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
